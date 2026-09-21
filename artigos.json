@@ -241,6 +241,18 @@
     "url": "https://www.google.com/search?q=%22Etnograf%C3%ADas%20de%20la%20Econom%C3%ADa%20Moral.%20Racionalidades%20y%20pr%C3%A1cticas%20emergentes%20en%20Espa%C3%B1a%22%20Richard%20Pfeilstetter%2C%20Sara%20Sama%20Acedo"
   },
   {
+    "tipo": "Livro",
+    "origem": "N",
+    "ano": 2025,
+    "temas": [
+      "Introdução"
+    ],
+    "titulo_pt": "Exemplo de item escondido",
+    "titulo_orig": "",
+    "meta": "Autor Exemplo · Editora Exemplo, 2025",
+    "url": "https://www.google.com/search?q=%22Exemplo%20de%20item%20escondido%22%20Autor%20Exemplo"
+  },
+  {
     "tipo": "Artigo científico",
     "origem": "I",
     "ano": 2025,
